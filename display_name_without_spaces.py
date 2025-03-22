@@ -1,1 +1,3 @@
-fullname = input("Enter your fullname(Format: first name, middle name, last name): ")
+fullname = input("Enter your fullname: ")
+remove_unnecessary_spaces = fullname.strip(" ")
+print("\nName:", remove_unnecessary_spaces)
