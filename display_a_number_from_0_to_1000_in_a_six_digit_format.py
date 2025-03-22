@@ -1,4 +1,1 @@
-# Pseudocode 
-    # Ask the user for input
-    # Create a format
-    # Display result
+num = int(input("Enter a number from 0-1000: "))
