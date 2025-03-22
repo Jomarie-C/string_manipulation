@@ -1,4 +1,1 @@
-# Pseudocode 
-    # Ask user to enter a name
-    # Remove the unnecessary spaces
-    # Display the result
+fullname = input("Enter your fullname(Format: first name, middle name, last name): ")
